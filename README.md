@@ -107,4 +107,4 @@ delivery_time_predict/
 
 ## Retrain after data changes
 
-Replace or update the CSV in `archive/` then run `python ml/train_model.py` again.
+Replace or update the CSV in `archive/`, then run `python ml/train_model.py` again.
